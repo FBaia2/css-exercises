@@ -1,0 +1,28 @@
+p {
+    background-color:#ff000080;
+    font-family: Verdana, sans-serif, "DejaVu Sans";
+    
+}
+
+div {
+    font-weight: bold;
+    
+}
+
+.second {
+
+    font-size: 36px;
+    color: blue;
+
+}
+.third {
+    font-size: 24px;
+}
+
+.fourth {
+
+    background-color:#14f73680;
+    font-size: 24px;
+
+
+}
